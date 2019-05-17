@@ -7,10 +7,8 @@
 ### Description: Use object oriented programming to make a functioning calculator
 ### GUIs
 ![Calculator01](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator.png?raw=true)
+![CalculatorInAction](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/CalculatorInAction.png)
 ### [Source Code For Calculator] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator1.zip?raw=true )
-### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.windows64.zip)
-### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.macosx.zip)
-[Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.linux64.zip)
 
 
 ## Screensaver
