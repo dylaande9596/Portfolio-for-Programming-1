@@ -14,13 +14,9 @@
 ## Screensaver
 ### Description: A screensaver
 ### GUIs
-![Screensaver01](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver01.PNG?raw=true)
-![Screensaver02](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver02.PNG?raw=true)
-### [Source Code For Screensaver] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/screen_saver_app.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
-
+![ScreenSvr1](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/ScreenSvr1.png)
+![ScreenSvr2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/ScreenSvr2.png)
+### [Source Code For Screensaver] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/ScreenSaver.zip)
 
 
 ## Cars
