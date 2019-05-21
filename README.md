@@ -1,6 +1,25 @@
 ## Welcome to Dylan Anderson's Programming 1 Portfolio
 ## 2018-2019 Programming 1 | dylaande9596@granitesd.org
 
+# **Arkanoid**
+**Recreation of the classic Taito arcade game Arkanoid**
+
+**Recreated by Vivek Anandh, Cristina Dong, Tyler Gale, Dylan Anderson, Izaak Tayler, and Alan Mo**
+
+**Programmed using the Processing 3 IDE**
+
+## Controls
+**Use mouse to move the paddle left and right**
+
+![StartScreen](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoidStart.png?raw=true)
+![Level1](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoid01.png?raw=true)
+![Level2](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoid02.png?raw=true)
+![ClassDiagram](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoidClass.png?raw=true)
+
+### **Gantt Chart Planner**
+[Gantt Chart Google Sheet](https://docs.google.com/spreadsheets/d/1Shp2_2NEoFC1ntGT3zCb_5CJRH_UIU3HSX2pU7bVX1U/edit?usp=sharing)
+
+[Link To Arkanoid Repository](https://github.com/SkylineHigh/A4Java/tree/master/Arkanoid)
 
 
 ## Object oriented calculator
