@@ -1,6 +1,9 @@
 ## Welcome to Dylan Anderson's Programming 1 Portfolio
 ## 2018-2019 Programming 1 | dylaande9596@granitesd.org
 
+### Certifications Earned: Java, C#, C++, Visual Basic
+
+
 # **Arkanoid**
 **Recreation of the classic Taito arcade game Arkanoid**
 
@@ -10,17 +13,21 @@
 
 ## Controls
 **Use mouse to move the paddle left and right**
-
+## GUI Mockups:
 ![StartScreen](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoidStart.png?raw=true)
 ![Level1](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoid01.png?raw=true)
 ![Level2](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoid02.png?raw=true)
 ![ClassDiagram](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoidClass.png?raw=true)
-
+### Screen Shot:
+![Pic1](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/Pic2.png?raw=true)
+![Pic2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/Pic1.png?raw=true)
 ### **Gantt Chart Planner**
 [Gantt Chart Google Sheet](https://docs.google.com/spreadsheets/d/1Shp2_2NEoFC1ntGT3zCb_5CJRH_UIU3HSX2pU7bVX1U/edit?usp=sharing)
 
 [Link To Arkanoid Repository](https://github.com/SkylineHigh/A4Java/tree/master/Arkanoid)
-
+### [Downloadable App for windows 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/application.linux64.zip)
 
 ## Object oriented calculator
 ### Description: Use object oriented programming to make a functioning calculator
