@@ -1,7 +1,7 @@
 ## Welcome to Dylan Anderson's Programming 1 Portfolio
 ## 2018-2019 Programming 1 | dylaande9596@granitesd.org
 
-### Certifications Earned: Java, C#, C++, Visual Basic
+### Certifications Earned: Java, C#, C++, Visual Basic, and Python
 
 
 # **Arkanoid**
@@ -18,7 +18,7 @@
 ![Level1](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoid01.png?raw=true)
 ![Level2](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoid02.png?raw=true)
 ![ClassDiagram](https://github.com/Alan78268/Programming1Portfolio/blob/master/Arkanoid/arkanoidClass.png?raw=true)
-### Screen Shot:
+### Screen Shots:
 ![Pic1](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/Pic2.png?raw=true)
 ![Pic2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Arkanoid/Pic1.png?raw=true)
 ### **Gantt Chart Planner**
