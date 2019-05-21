@@ -9,7 +9,9 @@
 ![Calculator01](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator.png?raw=true)
 ![CalculatorInAction](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/CalculatorInAction.png?raw=true)
 ### [Source Code For Calculator] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator1.zip)
-
+### [Downloadable App for windows 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/application.linux64.zip)
 
 ## Screensaver
 ### Description: A screensaver
@@ -17,16 +19,18 @@
 ![ScreenSvr1](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/ScreenSvr1.png?raw=true)
 ![ScreenSvr2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/ScreenSvr2.png?raw=true)
 ### [Source Code For Screensaver] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/ScreenSaver.zip)
-
+### [Downloadable App for windows 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Screensvr/application.linux64.zip)
 
 ## Cars
 ### Description: A project of object oriented cars that are moving across the screen at various speeds and colors.
 ### GUIs
 ![MakingCars](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/MakingCars.png?raw=true)
 ### [Source Code For Cars] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/Making_Cars.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/application.linux64.zip)
 
 
 
@@ -36,9 +40,9 @@
 ![EtchitySketchity](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/EtchitySketchity.png?raw=true)
 ![Etch2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/Etch2.png?raw=true)
 ### [Source Code For EtchASketch] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/Etch_A_Sketch.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/application.linux64.zip)
 
 
 
@@ -48,6 +52,6 @@
 ![Face1](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/Face1.png?raw=true)
 ![Face2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/Face2.png?raw=true)
 ### [Source Code For MakeAFace] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/Make_A_Face.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/application.windows64.zip)
+### [Downloadable App for linux 64] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/application.linux64.zip)
