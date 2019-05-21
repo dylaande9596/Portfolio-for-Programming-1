@@ -8,7 +8,7 @@
 ### GUIs
 ![Calculator01](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator.png?raw=true)
 ![CalculatorInAction](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/CalculatorInAction.png?raw=true)
-### [Source Code For Calculator] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator1.zip?raw=true )
+### [Source Code For Calculator] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/Calc/Calculator1.zip)
 
 
 ## Screensaver
@@ -23,7 +23,7 @@
 ### Description: A project of object oriented cars that are moving across the screen at various speeds and colors.
 ### GUIs
 ![MakingCars](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/MakingCars.png?raw=true)
-### [Source Code For Cars] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/Cars.zip)
+### [Source Code For Cars] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/MakingCars/Making_Cars.zip)
 ### [Downloadable App for windows 64] ()
 ### [Downloadable App for macosx] ()
 [Downloadable App for linux 64] ()
@@ -31,7 +31,7 @@
 
 
 ## Etch-A-Sketch
-### Description: Use the arrow keys to move a line across the screen and draw pictures.
+### Description: A project where you can use the arrow keys to move a line across the screen and draw pictures.
 ### GUIs
 ![EtchitySketchity](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/EtchitySketchity.png?raw=true)
 ![Etch2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/EtchASketch/Etch2.png?raw=true)
@@ -43,11 +43,11 @@
 
 
 ## Make-A-Face
-### Description: Randomly generates a face.
+### Description: A project which randomly generates faces. You can click to save a png of the current face.
 ### GUIs
-![MakeFace01](https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/MakeFace01.png?raw=true)
-![MakeFace02](https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/MakeFace02.png?raw=true)
-### [Source Code For MakeAFace] (https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/make_a_face.zip)
+![Face1](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/Face1.png?raw=true)
+![Face2](https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/Face2.png?raw=true)
+### [Source Code For MakeAFace] (https://github.com/dylaande9596/Portfolio-for-Programming-1/blob/master/FaceMaker/Make_A_Face.zip)
 ### [Downloadable App for windows 64] ()
 ### [Downloadable App for macosx] ()
 [Downloadable App for linux 64] ()
